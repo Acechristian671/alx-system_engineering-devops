@@ -1,1 +1,1 @@
-switch file ownership
+script that changes file ownership
