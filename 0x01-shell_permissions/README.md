@@ -1,1 +1,1 @@
-mirror
+all subdirectories
