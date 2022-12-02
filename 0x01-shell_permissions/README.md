@@ -1,1 +1,1 @@
-permissions
+execute only
