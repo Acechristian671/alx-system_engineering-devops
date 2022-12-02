@@ -1,1 +1,1 @@
-all subdirectories
+make
