@@ -1,1 +1,1 @@
-script that changes file ownership
+script listing all groups user is in
