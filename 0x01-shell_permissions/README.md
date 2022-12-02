@@ -1,1 +1,1 @@
-script listing all groups user is in
+switch file ownership
