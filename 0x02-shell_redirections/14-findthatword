@@ -1,0 +1,2 @@
+#!/bin/bash
+egrept root/etc/passwd
