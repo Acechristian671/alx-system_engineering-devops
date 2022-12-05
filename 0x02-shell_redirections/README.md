@@ -1,1 +1,1 @@
-hello_ world
+smiley
